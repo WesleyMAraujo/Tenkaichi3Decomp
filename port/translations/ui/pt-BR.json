@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "labels_version": 1,
+  "translation_version": 1,
+  "labels_count": 65,
+  "locale": "pt-BR",
+  "name": "Português (Brasil)",
+  "order": 2,
+  "source": "main menu guide dialogue and new game confirmation",
+  "labels": {
+    "pzs3us1/00448/1/25/6/3": {
+      "original": "Current settings will be lost\nif you begin a new game. OK?",
+      "text": "As configurações serão perdidas\nse iniciar um novo jogo. OK?"
+    },
+    "pzs3us1/00449/2/28/0": {
+      "original": "Dragon Ball Z Budokai Tenkaichi 3!",
+      "text": "Dragon Ball Z Budokai Tenkaichi 3!"
+    },
+    "pzs3us1/00449/2/28/1": {
+      "original": "Dragon Ball Z Budokai Tenkaichi 3!",
+      "text": "Dragon Ball Z Budokai Tenkaichi 3!"
+    },
+    "pzs3us1/00449/2/28/2": {
+      "original": "Dragon Ball Z Budokai Tenkaichi 3!",
+      "text": "Dragon Ball Z Budokai Tenkaichi 3!"
+    },
+    "pzs3us1/00449/2/28/3": {
+      "original": "Dragon Ball Z Budokai Tenkaichi 3!",
+      "text": "Dragon Ball Z Budokai Tenkaichi 3!"
+    },
+    "pzs3us1/00449/2/28/4": {
+      "original": "Dragon Ball Z Budokai Tenkaichi 3!",
+      "text": "Dragon Ball Z Budokai Tenkaichi 3!"
+    },
+    "pzs3us1/00449/2/28/5": {
+      "original": "Dragon Ball Z Budokai Tenkaichi 3!",
+      "text": "Dragon Ball Z Budokai Tenkaichi 3!"
+    },
+    "pzs3us1/00449/2/28/6": {
+      "original": "This should be fun!",
+      "text": "Isso vai ser divertido!"
+    },
+    "pzs3us1/00449/2/28/7": {
+      "original": "Check out my moves?",
+      "text": "Quer ver meus golpes?"
+    },
+    "pzs3us1/00449/2/28/8": {
+      "original": "Don't underestimate Earth!",
+      "text": "Não subestime a Terra!"
+    },
+    "pzs3us1/00449/2/28/9": {
+      "original": "Humph! I'll win!",
+      "text": "Humph! Eu vou vencer!"
+    },
+    "pzs3us1/00449/2/28/10": {
+      "original": "Attack-!",
+      "text": "Ataquem!"
+    },
+    "pzs3us1/00449/2/28/11": {
+      "original": "I challenge you Goten!",
+      "text": "Eu te desafio, Goten!"
+    },
+    "pzs3us1/00449/2/28/12": {
+      "original": "Please choose the mode you want\nto play.",
+      "text": "Escolha o modo que você quer\njogar."
+    },
+    "pzs3us1/00449/2/28/13": {
+      "original": "Gohan, where will you take me today?",
+      "text": "Gohan, aonde você vai me levar hoje?"
+    },
+    "pzs3us1/00449/2/28/14": {
+      "original": "Trunks. Hurry up and let's play!",
+      "text": "Trunks, vamos logo brincar!"
+    },
+    "pzs3us1/00449/2/28/15": {
+      "original": "Hey! What'll we play today?",
+      "text": "Ei! O que vamos jogar hoje?"
+    },
+    "pzs3us1/00449/2/28/16": {
+      "original": "Experience some epic battles here!",
+      "text": "Viva batalhas épicas por aqui!"
+    },
+    "pzs3us1/00449/2/28/17": {
+      "original": "This is where you can experience\nmost of Gohan's adventures.",
+      "text": "É aqui que você pode viver\na maioria das aventuras do Gohan."
+    },
+    "pzs3us1/00449/2/28/18": {
+      "original": "Fight even cooler than usual.",
+      "text": "Lute de um jeito ainda mais incrível."
+    },
+    "pzs3us1/00449/2/28/19": {
+      "original": "You can fight various battles here.\nGoten! Let's hurry and do this!",
+      "text": "Aqui você pode participar de várias lutas.\nGoten! Vamos logo!"
+    },
+    "pzs3us1/00449/2/28/20": {
+      "original": "You can enjoy tons of battles.\nHave fun fighting, okay?",
+      "text": "Há muitas lutas para curtir.\nDivirta-se, combinado?"
+    },
+    "pzs3us1/00449/2/28/21": {
+      "original": "There are many great battles here.\nI wonder if I can do this?",
+      "text": "Há muitas lutas incríveis aqui.\nSerá que eu consigo?"
+    },
+    "pzs3us1/00449/2/28/22": {
+      "original": "There's a lot of interesting looking \nbattles! Gohan, can I do this too?",
+      "text": "Tem tantas lutas interessantes!\nGohan, posso participar também?"
+    },
+    "pzs3us1/00449/2/28/23": {
+      "original": "Woah! Tons of battles. I wonder\nif it's more fun than the amusement park?",
+      "text": "Uau! Tantas lutas! Será que\né mais divertido que o parque de diversões?"
+    },
+    "pzs3us1/00449/2/28/24": {
+      "original": "You can participate in various martial\narts tournaments throughout the world.",
+      "text": "Participe de torneios de artes marciais\npor todo o mundo."
+    },
+    "pzs3us1/00449/2/28/25": {
+      "original": "Dad will probably be the winner but, I\nwonder if I can enter too?",
+      "text": "O papai provavelmente vai vencer, mas\nserá que eu também posso participar?"
+    },
+    "pzs3us1/00449/2/28/26": {
+      "original": "You can participate in various\ntournaments! But I'll be victorious.",
+      "text": "Você pode participar de vários\ntorneios! Mas eu vou vencer."
+    },
+    "pzs3us1/00449/2/28/27": {
+      "original": "I wonder if the world champion,\nHercule, is really that strong?",
+      "text": "Será que o campeão mundial,\nHercule, é mesmo tão forte?"
+    },
+    "pzs3us1/00449/2/28/28": {
+      "original": "You can compete against your friends\nor the computer.",
+      "text": "Você pode lutar contra seus amigos\nou contra o computador."
+    },
+    "pzs3us1/00449/2/28/29": {
+      "original": "You can choose your favorite character\nand compete. Gohan won't lose.",
+      "text": "Escolha seu personagem favorito\ne lute. Gohan não vai perder."
+    },
+    "pzs3us1/00449/2/28/30": {
+      "original": "Gohan, Gohan. Hurry. Let's do this.",
+      "text": "Gohan, Gohan. Vamos logo!"
+    },
+    "pzs3us1/00449/2/28/31": {
+      "original": "You can even battle in teams.\nGoten! Let's pair up and use Fusion.",
+      "text": "Dá até para lutar em equipes.\nGoten! Vamos fazer a fusão!"
+    },
+    "pzs3us1/00449/2/28/32": {
+      "original": "You can fight with friends far away,\nall sorts of people.",
+      "text": "Você pode lutar com amigos distantes\ne com todo tipo de pessoa."
+    },
+    "pzs3us1/00449/2/28/33": {
+      "original": "You can compete with people far away!",
+      "text": "Você pode lutar com pessoas de longe!"
+    },
+    "pzs3us1/00449/2/28/34": {
+      "original": "My family and Trunks' family can\ncompete.",
+      "text": "Minha família e a família do Trunks\npodem competir."
+    },
+    "pzs3us1/00449/2/28/35": {
+      "original": "You can compete with players from\naround the world. That's amazing.",
+      "text": "Você pode enfrentar jogadores\ndo mundo todo. Que incrível!"
+    },
+    "pzs3us1/00449/2/28/36": {
+      "original": "You can buy Z items, and strengthen\nyour character.",
+      "text": "Compre itens Z e fortaleça\nseu personagem."
+    },
+    "pzs3us1/00449/2/28/37": {
+      "original": "Visit here if you want to customize\nyour character.",
+      "text": "Venha aqui para personalizar\nseu personagem."
+    },
+    "pzs3us1/00449/2/28/38": {
+      "original": "Heh heeh. If you equip many Z items,\nyou'll get much stronger!",
+      "text": "He he he. Se equipar muitos itens Z,\nvocê vai ficar muito mais forte!"
+    },
+    "pzs3us1/00449/2/28/39": {
+      "original": "You can create your own\nultimate fighter!",
+      "text": "Você pode criar seu próprio\nlutador supremo!"
+    },
+    "pzs3us1/00449/2/28/40": {
+      "original": "Learn how to move and how to\nfight, and also practice here.",
+      "text": "Aprenda a se movimentar e a lutar,\ne pratique aqui."
+    },
+    "pzs3us1/00449/2/28/41": {
+      "original": "Gohan! You promised\nyou would teach me how to fly!",
+      "text": "Gohan! Você prometeu\nque me ensinaria a voar!"
+    },
+    "pzs3us1/00449/2/28/42": {
+      "original": "Gohan, Gohan, hurrry! Let's train!",
+      "text": "Gohan, Gohan, vamos logo! Vamos treinar!"
+    },
+    "pzs3us1/00449/2/28/43": {
+      "original": "Learn the controls and practice\nyour moves here.",
+      "text": "Aprenda os comandos e pratique\nseus golpes aqui."
+    },
+    "pzs3us1/00449/2/28/44": {
+      "original": "You can view saved replays, and \nsummon fighters friends have trained.",
+      "text": "Veja replays salvos e invoque\nlutadores treinados por amigos."
+    },
+    "pzs3us1/00449/2/28/45": {
+      "original": "It seems like you can summon\nstrong fighters, but is there a fighter\nstronger than Dad?",
+      "text": "Parece que dá para invocar lutadores\nfortes, mas existe alguém mais forte\nque o papai?"
+    },
+    "pzs3us1/00449/2/28/46": {
+      "original": "It seems you can summon strong people\nhere. Wow, that sounds fun.",
+      "text": "Parece que dá para invocar lutadores\nfortes aqui. Uau, que divertido!"
+    },
+    "pzs3us1/00449/2/28/47": {
+      "original": "If you enter a password, a strong\nfighter can be summoned.",
+      "text": "Digite uma senha para invocar\num lutador forte."
+    },
+    "pzs3us1/00449/2/28/48": {
+      "original": "This is a reference book about us.\nI've got to study a lot, so I can\nbecome a great scholar!",
+      "text": "Este é um guia sobre nós.\nPreciso estudar bastante para\nme tornar um grande estudioso!"
+    },
+    "pzs3us1/00449/2/28/49": {
+      "original": "There's a lot of things written about\neveryone. So these are the people that\nhang around Gohan, huh?",
+      "text": "Tem muita coisa sobre todo mundo.\nEntão é essa gente que vive\ncom o Gohan, hein?"
+    },
+    "pzs3us1/00449/2/28/50": {
+      "original": "Mom will introduce everyone.",
+      "text": "A mamãe vai apresentar todo mundo."
+    },
+    "pzs3us1/00449/2/28/51": {
+      "original": "You can study everyone's information.\nWhoa, there's a lot of people.",
+      "text": "Você pode conhecer todo mundo.\nUau, quanta gente!"
+    },
+    "pzs3us1/00449/2/28/52": {
+      "original": "You can change your game settings here,\nas well as save and load game data.",
+      "text": "Altere as configurações do jogo aqui,\ne salve ou carregue seus dados."
+    },
+    "pzs3us1/00449/2/28/53": {
+      "original": "You can configure the game settings.\nSet it up however you like, okay?",
+      "text": "Configure as opções do jogo.\nDeixe tudo do seu jeito, combinado?"
+    },
+    "pzs3us1/00449/2/28/54": {
+      "original": "You can change the settings to\nenjoy playing even more!",
+      "text": "Mude as configurações para\naproveitar ainda mais o jogo!"
+    },
+    "pzs3us1/00449/2/28/55": {
+      "original": "Adjust settings, and save and load\ngame data.",
+      "text": "Ajuste as opções e salve ou carregue\nos dados do jogo."
+    },
+    "pzs3us1/00449/2/28/56": {
+      "original": "You can use the Dragon Balls to\nsummon Shenron.",
+      "text": "Use as Esferas do Dragão para\ninvocar Shenlong."
+    },
+    "pzs3us1/00449/2/28/57": {
+      "original": "You can summon the Eternal Dragon.\nI really want to see what it looks like.",
+      "text": "Você pode invocar o Dragão Eterno.\nQuero muito ver como ele é."
+    },
+    "pzs3us1/00449/2/28/58": {
+      "original": "Here you can summon Shenron.",
+      "text": "Aqui você pode invocar Shenlong."
+    },
+    "pzs3us1/00449/2/28/59": {
+      "original": "I'll call Shenron and get a\nwish granted.",
+      "text": "Vou chamar Shenlong e pedir\npara realizar um desejo."
+    },
+    "pzs3us1/00449/2/28/60": {
+      "original": "I'd like to try gathering\nthe Dragon Balls to summon\nShenron and get a wish.",
+      "text": "Quero reunir as Esferas do Dragão,\ninvocar Shenlong e fazer um pedido."
+    },
+    "pzs3us1/00449/2/28/61": {
+      "original": "Alright! The Dragon Balls are gathered!\nA new item should have been added!",
+      "text": "Isso aí! As Esferas do Dragão foram reunidas!\nUm novo item deve ter sido adicionado!"
+    },
+    "pzs3us1/00449/2/28/62": {
+      "original": "Gathering the Dragon Balls\nwas pretty easy, wasn't it, Trunks?",
+      "text": "Foi bem fácil reunir as Esferas\ndo Dragão, não foi, Trunks?"
+    },
+    "pzs3us1/00449/2/28/63": {
+      "original": "I want to try gathering\nthe Dragon Balls. I want to have a\nwish granted soon.",
+      "text": "Quero reunir as Esferas do Dragão.\nQuero fazer um pedido logo."
+    }
+  }
+}

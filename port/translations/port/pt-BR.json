@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "labels_version": 3,
+  "translation_version": 1,
+  "labels_count": 18,
+  "locale": "pt-BR",
+  "name": "Português (Brasil)",
+  "order": 2,
+  "labels": {
+    "quit/confirm": {
+      "original": "Close the game?\nUnsaved progress will be lost.",
+      "text": "Fechar o jogo?\nO progresso não salvo será perdido."
+    },
+    "net/connecting": {
+      "original": "Connecting to your rival...",
+      "text": "Conectando ao rival..."
+    },
+    "net/rival_here": {
+      "original": "Your rival \"{name}\" is here! The match begins.",
+      "text": "Seu rival \"{name}\" chegou! A luta vai começar."
+    },
+    "net/lobby_joined": {
+      "original": "You are in the lobby. Its screen opens from the main menu (Tenkaichi Budokai Online).",
+      "text": "Você está no saguão. A tela dele pode ser aberta pelo menu principal (Torneio Tenkaichi Online)."
+    },
+    "net/rival_from": {
+      "original": "Your rival \"{name}\" from {region} is here! The match begins.",
+      "text": "Seu rival \"{name}\", de {region}, chegou! A luta vai começar."
+    },
+    "net/round_trip": {
+      "original": "Round trip: ~{ms} ms",
+      "text": "Latência: ~{ms} ms"
+    },
+    "region/NA": {
+      "original": "North America",
+      "text": "América do Norte"
+    },
+    "region/SA": {
+      "original": "South America",
+      "text": "América do Sul"
+    },
+    "region/EU": {
+      "original": "Europe",
+      "text": "Europa"
+    },
+    "region/ME": {
+      "original": "the Middle East",
+      "text": "Oriente Médio"
+    },
+    "region/AF": {
+      "original": "Africa",
+      "text": "África"
+    },
+    "region/AS": {
+      "original": "Asia",
+      "text": "Ásia"
+    },
+    "region/OC": {
+      "original": "Oceania",
+      "text": "Oceania"
+    },
+    "update/available": {
+      "original": "Update {version} available. F1 to update.",
+      "text": "Atualização {version} disponível. Pressione F1 para atualizar."
+    },
+    "update/downloading": {
+      "original": "Downloading update {version}: {percent}%",
+      "text": "Baixando atualização {version}: {percent}%"
+    },
+    "update/ready": {
+      "original": "Update {version} is ready. F1 > Restart now.",
+      "text": "Atualização {version} pronta. F1 > Reiniciar agora."
+    },
+    "update/done": {
+      "original": "Updated to {version}.",
+      "text": "Atualizado para {version}."
+    },
+    "update/online_off": {
+      "original": "An update is being installed: online play is off until the game restarts (F1 > Restart now).",
+      "text": "Uma atualização está sendo instalada: o jogo online ficará indisponível até reiniciar (F1 > Reiniciar agora)."
+    }
+  }
+}

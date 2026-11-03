@@ -55,6 +55,21 @@ missing port entries use the English port catalog or its built-in message.
 For artwork labels, select a Menu or Battle font instead of **Original** to
 display translated words in place of the original artwork.
 
+The starter Brazilian Portuguese catalogs are
+`port/translations/labels/pt-BR.json`,
+`port/translations/ui/pt-BR.json`, and
+`port/translations/port/pt-BR.json`. They translate the main-menu labels, the
+64 entries in the main-menu guides' dialogue table, the new-game confirmation,
+and port-owned messages; other game text remains in its existing language.
+The dialogue catalog keeps all 64 table entries together so the game can match
+the original text table.
+The title-screen choices **New Game** and **Continue** are also translated as
+**Novo Jogo** and **Continuar** in both their normal and selected artwork.
+The title-screen prompt **Press START button** is translated as **Pressione
+START**.
+After installing them, select **Português (Brasil)** in **F1 > UI > Language**
+and choose a non-**Original** Menu font to display the translated menu labels.
+
 ## Selecting and loading a language
 
 The game discovers locale files in all three folders and shows each language
