@@ -1053,11 +1053,11 @@
     },
     "save-confirm-normal/0/0": {
       "original": "Yes",
-      "text": "Yes"
+      "text": "Sim"
     },
     "save-confirm-normal/0/1": {
       "original": "No",
-      "text": "No"
+      "text": "Não"
     },
     "options-actions-selected/0/0": {
       "original": "EXIT",
@@ -1069,11 +1069,11 @@
     },
     "save-confirm-selected/0/0": {
       "original": "Yes",
-      "text": "Yes"
+      "text": "Sim"
     },
     "save-confirm-selected/0/1": {
       "original": "No",
-      "text": "No"
+      "text": "Não"
     },
     "options-values-normal/0/0": {
       "original": "ON",
@@ -1641,11 +1641,11 @@
     },
     "item-shop-confirm-normal/0/0": {
       "original": "Yes",
-      "text": "Yes"
+      "text": "Sim"
     },
     "item-shop-confirm-normal/0/1": {
       "original": "No",
-      "text": "No"
+      "text": "Não"
     },
     "item-shop-confirm-normal/0/2": {
       "original": "Explanation",
@@ -1825,11 +1825,11 @@
     },
     "item-shop-confirm-selected/0/0": {
       "original": "Yes",
-      "text": "Yes"
+      "text": "Sim"
     },
     "item-shop-confirm-selected/0/1": {
       "original": "No",
-      "text": "No"
+      "text": "Não"
     },
     "item-shop-confirm-selected/0/2": {
       "original": "Explanation",

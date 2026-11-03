@@ -66,7 +66,9 @@ the original text table.
 The title-screen choices **New Game** and **Continue** are also translated as
 **Novo Jogo** and **Continuar** in both their normal and selected artwork.
 The title-screen prompt **Press START button** is translated as **Pressione
-START**.
+START**. Confirmation buttons **Yes/No** are translated as **Sim/Não** in
+both the game text and menu artwork, and the memory-card choices are labeled
+**Cartão de memória 1/2**.
 After installing them, select **Português (Brasil)** in **F1 > UI > Language**
 and choose a non-**Original** Menu font to display the translated menu labels.
 

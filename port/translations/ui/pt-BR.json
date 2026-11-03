@@ -2,12 +2,32 @@
   "schema_version": 1,
   "labels_version": 1,
   "translation_version": 1,
-  "labels_count": 65,
+  "labels_count": 70,
   "locale": "pt-BR",
   "name": "Português (Brasil)",
   "order": 2,
   "source": "main menu guide dialogue and new game confirmation",
   "labels": {
+    "pzs3us1/00005/7": {
+      "original": "Yes",
+      "text": "Sim"
+    },
+    "pzs3us1/00005/8": {
+      "original": "No",
+      "text": "Não"
+    },
+    "pzs3us1/00448/1/25/6/0": {
+      "original": "MEMORY CARD slot 1",
+      "text": "Cartão de memória 1"
+    },
+    "pzs3us1/00448/1/25/6/1": {
+      "original": "MEMORY CARD slot 2",
+      "text": "Cartão de memória 2"
+    },
+    "pzs3us1/00448/1/25/6/2": {
+      "original": "MEMORY CARD slot 1 \nand MEMORY CARD slot 2",
+      "text": "Cartão de memória 1\ne Cartão de memória 2"
+    },
     "pzs3us1/00448/1/25/6/3": {
       "original": "Current settings will be lost\nif you begin a new game. OK?",
       "text": "As configurações serão perdidas\nse iniciar um novo jogo. OK?"
